@@ -12,7 +12,7 @@ A simple Android app that allows users to choose between a basic and advanced ca
 - Material Design
 
 ## Getting Started
-1. Clone the repository:
+1. Clone the repository: https://github.com/szymon-muszynski/CalcApp.git
 2. Open the project in **Android Studio**
 3. Build and run on an emulator or physical device matching the requirements below:
 minSdk = 24   
